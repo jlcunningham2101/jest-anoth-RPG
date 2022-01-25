@@ -1,0 +1,22 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcunningham2101/jest-anoth-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcunningham2101/jest-anoth-RPG/issues"
+  },
+  "homepage": "https://github.com/jlcunningham2101/jest-anoth-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
